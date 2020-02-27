@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_rasp1">
+        <item>Класс</item>
+        <item>Учитель</item>
+        <item>Кабинет</item>
+    </string-array>
+    <string-array name="list_rasp2">
+        <item>1А</item>
+        <item>1Б</item>
+        <item>1В</item>
+        <item>2А</item>
+        <item>2Б</item>
+        <item>2В</item>
+        <item>3А</item>
+        <item>3Б</item>
+        <item>3В</item>
+        <item>3Г</item>
+        <item>4А</item>
+        <item>4Б</item>
+        <item>4В</item>
+        <item>4Г</item>
+        <item>5А</item>
+        <item>5Б</item>
+        <item>5В</item>
+        <item>6А</item>
+        <item>6Б</item>
+        <item>6В</item>
+        <item>7А</item>
+        <item>7Б</item>
+        <item>7В</item>
+        <item>8А</item>
+        <item>8Б</item>
+        <item>8В</item>
+        <item>8Г</item>
+        <item>9А</item>
+        <item>9Б</item>
+        <item>9В</item>
+        <item>9Г</item>
+        <item>10А</item>
+        <item>11А</item>
+        <item>11Б</item>
+    </string-array>
+    <string-array name="list_ychitel">
+        <item>Балалаева Светлана Борисовна</item>
+        <item>Беганцов Сергей Васильевич</item>
+        <item>Березина Арина Александровна</item>
+        <item>Букова Ольга Юрьевна</item>
+        <item>Голубкова Татьяна Алексеевна</item>
+        <item>Ермолаева Людмила Васильевна</item>
+        <item>Земскова Ева Сергеевна</item>
+        <item>Зюрина Елена Олеговна</item>
+        <item>Карамова Марина Викторовна</item>
+        <item>Клементьева Анастасия Александровна</item>
+        <item>Краснов Антон Александрович</item>
+        <item>Лобанова Надежда Андреевна</item>
+        <item>Макарова Надежда Павловна</item>
+        <item>Малышева Вера Васильевна</item>
+        <item>Маркина Татьяна Павловна</item>
+        <item>Наумова Ирина Владимировна</item>
+        <item>Платова Ольга Анатольевна</item>
+        <item>Посаженникова Надежда Николаевна</item>
+        <item>Птицына Юлия Ивановна</item>
+        <item>Радюшин Сергей Вячеславович</item>
+        <item>Сухоручкин Игорь Витальевич</item>
+        <item>Тарасова Вероника Николаевна</item>
+        <item>Тимофеев Валерий Иванович</item>
+        <item>Тюнтяева Лилия Александровна</item>
+        <item>Угланова Наталия Владимировна</item>
+        <item>Федорова Наталья Александровна</item>
+        <item>Хрипунов Юрий Фёдорович</item>
+        <item>Цветаев Владимир Евгеньевич</item>
+        <item>Черемисова Валентина Викторовна</item>
+        <item>Чижова Алла Сергеевна</item>
+        <item>Шапаева Диана Олеговна</item>
+        <item>Шумилкина Марина Николаевна</item>
+        <item>Щепак Елена Владимировна</item>
+        <item>Юматова Галина Николаевна</item>
+    </string-array>
+    <string-array name="list_classroom">
+        <item value="13">10 кабинет</item>
+        <item value="14">11 кабинет</item>
+        <item value="15">12 кабинет</item>
+        <item value="16">13 кабинет</item>
+        <item value="17">14 кабинет</item>
+        <item value="4">15 кабинет</item>
+        <item value="18">16 кабинет</item>
+        <item value="19">17 кабинет</item>
+        <item value="20">18 кабинет</item>
+        <item value="21">19 кабинет</item>
+        <item value="25">22 кабинет</item>
+        <item value="26">23 кабинет</item>
+        <item value="27">24 кабинет</item>
+        <item value="28">25 кабинет</item>
+        <item value="67">26 кабинет</item>
+        <item value="30">27 кабинет</item>
+        <item value="31">28 кабинет</item>
+        <item value="32">29 кабинет</item>
+        <item value="7">3 кабинет</item>
+        <item value="33">30 кабинет</item>
+        <item value="34">31 кабинет</item>
+        <item value="35">32 кабинет</item>
+        <item value="36">33 кабинет</item>
+        <item value="37">34 кабинет</item>
+        <item value="38">35 кабинет</item>
+        <item value="39">36 кабинет</item>
+        <item value="43">40 кабинет</item>
+        <item value="44">41 кабинет</item>
+        <item value="45">42 кабинет</item>
+        <item value="46">43 кабинет</item>
+        <item value="47">44 кабинет</item>
+        <item value="2">5 кабинет</item>
+        <item value="9">6 кабинет</item>
+        <item value="10">7 кабинет</item>
+        <item value="11">8 кабинет</item>
+        <item value="12">9 кабинет</item>
+        <item value="66">Большой спортзал</item>
+        <item value="65">Малый спортзал</item>
+        <item value="64">Учительская</item>
+    </string-array>
+</resources>

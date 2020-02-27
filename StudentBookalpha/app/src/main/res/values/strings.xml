@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student Book</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="descrone">TextView</string>
+    <string name="stname">Student Book Alpha 1.0a</string>
+    <string name="groupname">Andrey Pankov 2020</string>
+    <string name="yrok">Урок</string>
+    <string name="kab">Кабинет</string>
+    <string name="sreda">Среда</string>
+    <string name="chetverg">Четверг</string>
+    <string name="subbota">Суббота</string>
+    <string name="ponedelnik">Понедельник</string>
+    <string name="pyatnica">Пятница</string>
+    <string name="ychitel">Учитель:</string>
+    <string name="klas">Класс:</string>
+    <string name="vremya">Время:</string>
+    <string name="add_file">Add file</string>
+    <string name="type_json">type.json</string>
+</resources>
